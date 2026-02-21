@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Lyin' Eyes",
+  "base_artist": "Eagles",
+  "createdAt": "2026-02-21T03:08:34.767635Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lyin' Eyes",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/01_Lyin'_Eyes_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lyin' Eyes",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/02_Lyin'_Eyes_Europe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lyin' Eyes - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/03_Lyin'_Eyes_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lyin' Eyes",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/04_Lyin'_Eyes_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lyin' Eyes",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/05_Lyin'_Eyes_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lyin' Eyes (2013 Remaster)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/06_Lyin'_Eyes_(2013_Remaster)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lyin’ Eyes",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/07_Lyin’_Eyes_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lyin' Eyes",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/08_Lyin'_Eyes_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lyin' Eyes",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/09_Lyin'_Eyes_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lyin' Eyes - Single Edit",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/10_Lyin'_Eyes_-_Single_Edit_Eagles.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lyin' Eyes",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/11_Lyin'_Eyes_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lyin’ Eyes",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/12_Lyin’_Eyes_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lyin' Eyes",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/13_Lyin'_Eyes_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lyin' Eyes",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/14_Lyin'_Eyes_Eagles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lyin' Eyes",
+      "artist": "イーグルス",
+      "has_synced": false,
+      "path": "select/pl_01_Lyin'_Eyes_イーグルス.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Lyin' Eyes",
+      "artist": "イーグルス",
+      "has_synced": false,
+      "path": "select/pl_02_Lyin'_Eyes_イーグルス.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Lyin' Eyes",
+      "artist": "イーグルス",
+      "has_synced": false,
+      "path": "select/pl_03_Lyin'_Eyes_イーグルス.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Lyin' Eyes",
+      "artist": "イーグルス",
+      "has_synced": false,
+      "path": "select/pl_04_Lyin'_Eyes_イーグルス.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Lyin' Eyes",
+      "artist": "イーグルス",
+      "has_synced": false,
+      "path": "select/pl_05_Lyin'_Eyes_イーグルス.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Lyin' Eyes",
+      "artist": "イーグルス",
+      "has_synced": false,
+      "path": "select/pl_06_Lyin'_Eyes_イーグルス.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Lyin' Eyes",
+      "artist": "イーグルス",
+      "has_synced": false,
+      "path": "select/pl_07_Lyin'_Eyes_イーグルス.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Lyin' Eyes",
+      "artist": "イーグルス",
+      "has_synced": false,
+      "path": "select/pl_08_Lyin'_Eyes_イーグルス.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Lyin' Eyes",
+      "artist": "イーグルス",
+      "has_synced": false,
+      "path": "select/pl_09_Lyin'_Eyes_イーグルス.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Lyin' Eyes",
+      "artist": "イーグルス",
+      "has_synced": false,
+      "path": "select/pl_10_Lyin'_Eyes_イーグルス.txt"
+    }
+  ]
+}
